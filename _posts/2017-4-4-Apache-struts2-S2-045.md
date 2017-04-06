@@ -19,10 +19,12 @@ tags: [vulnerability analysis]
 
 #### 发布时间：
 >2017-03-06
->2017-03-21
+
+>2017-03-20
 
 #### 影响范围：
 >Struts 2.3.5 - Struts 2.3.31
+
 >Struts 2.5 - Struts 2.5.10
 
 #### 漏洞描述：
