@@ -33,4 +33,32 @@ tags: [vulnerability analysis]
 ## 0x01  环境搭建
 
 #### 环境配置：
->[IntelliJ IDEA](https://www.jetbrains.com/idea/#chooseYourEdition)
+
+>* IDE:[IntelliJ IDEA](https://www.jetbrains.com/idea/#chooseYourEdition)
+>* Struts2-2.3.30
+使用IDEA创建struts2项目,如图。
+
+{% capture images %} http://i4.buimg.com/589989/783070c5a1c096e5.png {% endcapture %} {% include gallery images=images caption="" cols=1 %}
+
+<kbd>Create New Project</kbd>-><kbd>Java Enterprise</kbd>-><kbd>Tomcat&Struts2</kbd>-><kbd>Use library</kbd>->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
