@@ -44,7 +44,6 @@ tags: [vulnerability analysis]
 这里给出两个受影响版本的下载地址，均集成了REST API且默认开启。
 
 >[wordpress -4.7.0](https://wordpress.org/wordpress-4.7.zip)
-
 >[wordpress -4.7.1](https://wordpress.org/wordpress-4.7.1.zip)
 
 下载并解压到网站主目录（默认路径为<kbd>/var/www/html</kbd>），访问`http://127.0.0.1/wordpress` 按提示进行安装。
