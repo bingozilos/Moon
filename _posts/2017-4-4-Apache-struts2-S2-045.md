@@ -9,7 +9,7 @@ tags: [vulnerability analysis]
 
 # Apache struts2 S2-045/S2-046 漏洞原理
 
-## 0x01  漏洞介绍
+## 0x00  漏洞介绍
 
 #### 漏洞名称：
 >Apache struts2 S2-045/S2-046 远程代码执行
@@ -29,3 +29,8 @@ tags: [vulnerability analysis]
 
 #### 漏洞描述：
 >Apache Struts2使用的基于Jakarta的上传机制存在远程代码执行漏洞。可以通过构造Content-Type值（S2-046多一处出发点filename）进行触发漏洞，造成远程执行代码
+
+## 0x01  环境搭建
+
+#### 环境配置：
+>[IntelliJ IDEA](https://www.jetbrains.com/idea/#chooseYourEdition)
